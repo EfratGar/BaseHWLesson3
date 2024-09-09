@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using Unity.VisualScripting;
 using UnityEngine;
-
+// give meaningful names to classes
 public class NewBehaviourScript : MonoBehaviour
 {
     //Create a method that accepts an integer, operates it and prints out the result:
@@ -56,7 +56,7 @@ public class NewBehaviourScript : MonoBehaviour
         }
 
     }
-
+//perfect
     void Start()
     {
         //Create a method that accepts an integer, operates it and prints out the result:
